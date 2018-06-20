@@ -1,0 +1,33 @@
+{
+  "name": "react-development",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-loader": "^7.1.4",
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-react": "^6.24.1",
+    "css-loader": "^0.28.11",
+    "file-loader": "^1.1.11",
+    "img-loader": "^3.0.0",
+    "less": "^3.0.4",
+    "less-loader": "^4.1.0",
+    "react": "^16.4.1",
+    "react-app-rewire-less": "^2.1.1",
+    "react-app-rewired": "^1.5.2",
+    "react-dom": "^16.4.1",
+    "style-loader": "^0.21.0",
+    "url-loader": "^1.0.1",
+    "webpack": "^3.10.0"
+  },
+  "dependencies": {
+    "antd": "^3.6.3",
+    "babel-plugin-import": "^1.8.0"
+  }
+}
